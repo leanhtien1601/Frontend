@@ -1,0 +1,166 @@
+.page-contact {
+  padding: 40px 0 40px 0; }
+  .page-contact .title {
+    font-size: 36px;
+    text-transform: uppercase;
+    line-height: 42px;
+    margin-bottom: 25px;
+    color: #bc516b; }
+  .page-contact .short-text {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: Montserrat;
+    color: #495057;
+    font-weight: 600; }
+  .page-contact p img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    margin-right: 10px; }
+  .page-contact p .text {
+    font-size: 18px;
+    font-family: Montserrat;
+    color: #495057; }
+  .page-contact p span,
+  .page-contact p a {
+    font-size: 16px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #495057;
+    transition: 0.3s; }
+    .page-contact p span:hover,
+    .page-contact p a:hover {
+      text-decoration: none;
+      color: #bc516b;
+      transition: 0.3s; }
+
+.login {
+  background: #fff;
+  border: 1px solid #d3d3d3;
+  border-radius: 10px;
+  max-width: 585px;
+  padding: 45px 25px;
+  margin: auto;
+  margin-bottom: 50px; }
+  .login .title-page {
+    font-size: 36px;
+    text-transform: uppercase;
+    line-height: 42px;
+    text-align: center;
+    color: #bc516b;
+    margin-bottom: 15px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; }
+  .login .group-form {
+    position: relative;
+    margin-bottom: 15px; }
+    .login .group-form input {
+      display: block;
+      width: 100%;
+      background: #fff;
+      border: 1px solid #ebebeb;
+      box-sizing: border-box;
+      font-family: UTMAVO;
+      border-radius: 99px;
+      height: auto;
+      padding: 12px 15px;
+      padding-left: 25px !important; }
+      .login .group-form input:focus {
+        outline: none;
+        color: #495057;
+        background-color: #fff;
+        border-color: #80bdff;
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
+    .login .group-form i {
+      position: absolute;
+      top: calc(50% - 10px);
+      right: 25px;
+      color: #565656; }
+    .login .group-form .btn-main {
+      min-width: 181px;
+      display: inline-block;
+      position: relative;
+      height: 56px;
+      line-height: 53px;
+      text-align: center;
+      font-size: 20px;
+      border: 1px solid #f4b5ab;
+      box-sizing: border-box;
+      border-radius: 100px;
+      margin-top: 30px;
+      background: #f1bdd3;
+      color: white;
+      transition: 0.3s; }
+      .login .group-form .btn-main:hover {
+        background: white;
+        color: #f1bdd3;
+        border: 1px solid #f4b5ab;
+        transition: 0.3s; }
+      .login .group-form .btn-main:focus {
+        outline: none; }
+  .login p {
+    color: #565656; }
+  .login .social .face-book {
+    color: #3b589e;
+    background: #f9f9f9;
+    font-size: 15px;
+    border-radius: 99px;
+    min-width: 260px;
+    font-family: UTMAVO;
+    display: block;
+    width: 100%; }
+    .login .social .face-book i {
+      background: #3b589e;
+      color: #fff;
+      width: 35px;
+      line-height: 35px;
+      text-align: center;
+      height: 35px;
+      border-radius: 999px; }
+    .login .social .face-book:hover {
+      text-decoration: none; }
+  .login .social .google {
+    color: #ce201f;
+    background: #f9f9f9;
+    font-size: 15px;
+    border-radius: 99px;
+    min-width: 260px;
+    font-family: UTMAVO;
+    display: block;
+    width: 100%; }
+    .login .social .google i {
+      background: #ce201f;
+      color: #fff;
+      width: 35px;
+      line-height: 35px;
+      text-align: center;
+      height: 35px;
+      border-radius: 999px; }
+    .login .social .google:hover {
+      text-decoration: none; }
+  .login .clpink2 {
+    font-size: 16px;
+    line-height: 20px;
+    font-family: UTMAVO; }
+    .login .clpink2 a {
+      font-size: 16px;
+      line-height: 20px;
+      color: violet;
+      transition: 0.3s; }
+      .login .clpink2 a:hover {
+        text-decoration: none;
+        transition: 0.3s;
+        color: #495057; }
+  .login .text-pass {
+    font-size: 16px;
+    color: #888;
+    font-family: UTMAVO; }
+  .login .forget {
+    font-size: 16px;
+    color: #888;
+    font-family: UTMAVO;
+    transition: 0.3s; }
+    .login .forget:hover {
+      text-decoration: none;
+      color: #bc516b;
+      transition: 0.3s; }
+
+/*# sourceMappingURL=contact.css.map */

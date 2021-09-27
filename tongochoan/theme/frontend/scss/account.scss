@@ -1,0 +1,181 @@
+@media (min-width: 1366px) {
+    // code here
+}
+
+@media (min-width: 1200px) and (max-width: 1365px) {
+    // code here
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    // code here
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .manges-user {
+        form {
+            .restore {
+                display: flex;
+                /* margin-left: auto; */
+                align-items: center;
+                flex-wrap: wrap;
+                .btn-main {
+                    margin-left: auto;
+                }
+            }
+            .group-form{
+                input{
+                    &::placeholder{
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+/* --------Tablet-------- */
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .manges-user {
+        form {
+            .restore {
+                display: flex;
+                /* margin-left: auto; */
+                align-items: center;
+                flex-wrap: wrap;
+                .btn-main {
+                    margin-left: auto;
+                }
+            }
+            .group-form{
+                input{
+                    &::placeholder{
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+/* ---------Mobile-------- */
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+    .manges-user {
+        form {
+            .restore {
+                display: flex;
+                /* margin-left: auto; */
+                align-items: center;
+                flex-wrap: wrap;
+                .btn-main {
+                    margin-left: auto;
+                }
+            }
+            .group-form{
+                input{
+                    &::placeholder{
+                        font-size: 14px;
+                    }
+                }
+            }
+            p {
+                font-size: 18px !important;
+                margin-bottom: 15px !important;
+            }
+        }
+    }
+
+    .login {
+        border-radius: 0;
+        margin-bottom: 0px;
+        form {
+            .title-page {
+                font-size: 18px;
+            }
+            .group-form {
+                .btn-main {
+                    height: 34px;
+                    line-height: 31px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+                input {
+                    padding: 7px 12px;
+                }
+            }
+        }
+    }
+}
+
+//forget pass
+.manges-user {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    form {
+        background: #f9f9f9;
+        border: 1px solid #d3d3d3;
+        box-sizing: border-box;
+        border-radius: 10px;
+        padding: 20px 25px;
+        p {
+            font-size: 30px;
+            line-height: 39px;
+            color: #495057;
+            margin-bottom: 35px;
+        }
+
+        .group-form {
+            margin-bottom: 15px;
+            label {
+                margin-right: 30px;
+            }
+            .text-none {
+                min-width: 125px;
+            }
+            input {
+                background: #fff;
+                border: 1px solid #ebebeb;
+                box-sizing: border-box;
+                font-family: UTMAVO;
+                border-radius: 99px;
+                height: auto;
+                padding: 12px 15px;
+                padding-left: 25px;
+                width: 80%;
+                &:focus {
+                    color: #495057;
+                    background-color: #fff;
+                    border-color: #80bdff;
+                    outline: 0;
+                    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+                }
+            }
+            .btn-main {
+                min-width: 120px;
+                height: 40px;
+                line-height: 40px;
+                font-size: 14px;
+                display: inline-block;
+                text-align: center;
+
+                border: 1px solid #f4b5ab;
+                box-sizing: border-box;
+                border-radius: 100px;
+                background: #f1bdd3;
+                color: #fff;
+                text-transform: uppercase;
+                transition: 0.3s;
+                &:hover {
+                    background: #fff;
+                    color: #f1bdd3;
+                    border: 1px solid #f4b5ab;
+                    transition: 0.3s;
+                }
+                &:focus{
+                    outline: none;
+                }
+            }
+        }
+    }
+}

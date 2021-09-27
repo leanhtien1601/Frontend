@@ -1,0 +1,200 @@
+// Liên hệ
+.page-contact {
+    padding: 40px 0 40px 0;
+    .title {
+        font-size: 36px;
+        text-transform: uppercase;
+        line-height: 42px;
+        margin-bottom: 25px;
+        color: #bc516b;
+    }
+    .short-text {
+        font-size: 30px;
+        margin-bottom: 20px;
+        font-family: Montserrat;
+        color: #495057;
+        font-weight: 600;
+    }
+    p {
+        img {
+            width: 30px;
+            height: 30px;
+            object-fit: contain;
+            margin-right: 10px;
+        }
+        .text {
+            font-size: 18px;
+            font-family: Montserrat;
+            color: #495057;
+        }
+        span,
+        a {
+            font-size: 16px;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            color: #495057;
+            transition: 0.3s;
+            &:hover {
+                text-decoration: none;
+                color: #bc516b;
+                transition: 0.3s;
+            }
+        }
+    }
+}
+
+// đăng nhập
+.login {
+    background: #fff;
+    border: 1px solid #d3d3d3;
+    border-radius: 10px;
+    max-width: 585px;
+    padding: 45px 25px;
+    margin: auto;
+    margin-bottom: 50px;
+    .title-page {
+        font-size: 36px;
+        text-transform: uppercase;
+        line-height: 42px;
+        text-align: center;
+        color: #bc516b;
+        margin-bottom: 15px;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .group-form {
+        position: relative;
+        margin-bottom: 15px;
+        input {
+            display: block;
+            width: 100%;
+            background: #fff;
+            border: 1px solid #ebebeb;
+            box-sizing: border-box;
+            font-family: UTMAVO;
+            border-radius: 99px;
+            height: auto;
+            padding: 12px 15px;
+            padding-left: 25px !important;
+            &:focus {
+                outline: none;
+                color: #495057;
+                background-color: #fff;
+                border-color: #80bdff;
+                box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+            }
+        }
+        i {
+            position: absolute;
+            top: calc(50% - 10px);
+            right: 25px;
+            color: #565656;
+        }
+        .btn-main {
+            min-width: 181px;
+            display: inline-block;
+            position: relative;
+            height: 56px;
+            line-height: 53px;
+            text-align: center;
+            font-size: 20px;
+            border: 1px solid #f4b5ab;
+            box-sizing: border-box;
+            border-radius: 100px;
+            margin-top: 30px;
+            background: #f1bdd3;
+            color: white;
+            transition: 0.3s;
+            &:hover {
+                background: white;
+                color: #f1bdd3;
+                border: 1px solid #f4b5ab;
+                transition: 0.3s;
+            }
+            &:focus {
+                outline: none;
+            }
+        }
+    }
+    p {
+        color: #565656;
+    }
+    .social {
+        .face-book {
+            color: #3b589e;
+            background: #f9f9f9;
+            font-size: 15px;
+            border-radius: 99px;
+            min-width: 260px;
+            font-family: UTMAVO;
+            display: block;
+            width: 100%;
+            i {
+                background: #3b589e;
+                color: #fff;
+                width: 35px;
+                line-height: 35px;
+                text-align: center;
+                height: 35px;
+                border-radius: 999px;
+            }
+            &:hover {
+                text-decoration: none;
+            }
+        }
+        .google {
+            color: #ce201f;
+            background: #f9f9f9;
+            font-size: 15px;
+            border-radius: 99px;
+            min-width: 260px;
+            font-family: UTMAVO;
+            display: block;
+            width: 100%;
+            i {
+                background: #ce201f;
+                color: #fff;
+                width: 35px;
+                line-height: 35px;
+                text-align: center;
+                height: 35px;
+                border-radius: 999px;
+            }
+            &:hover {
+                text-decoration: none;
+            }
+        }
+    }
+    .clpink2 {
+        font-size: 16px;
+        line-height: 20px;
+        font-family: UTMAVO;
+        a {
+            font-size: 16px;
+            line-height: 20px;
+            color: violet;
+            transition: 0.3s;
+            &:hover {
+                text-decoration: none;
+                transition: 0.3s;
+                color: #495057;
+            }
+        }
+    }
+    .text-pass {
+        font-size: 16px;
+        color: #888;
+        font-family: UTMAVO;
+    }
+    .forget {
+        font-size: 16px;
+        color: #888;
+        font-family: UTMAVO;
+        transition: 0.3s;
+        &:hover {
+            text-decoration: none;
+            color: #bc516b;
+            transition: 0.3s;
+        }
+    }
+}
+
+

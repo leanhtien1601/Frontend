@@ -1,0 +1,254 @@
+nav {
+    .breadcrumb {
+        background: white;
+        padding-left: 0px;
+        .fa-home {
+            font-size: 24px;
+            margin: 0 10px 0 0px;
+            color: #ab07ab;
+        }
+        li {
+            a {
+                color: #495057;
+                font-size: 16px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifma;
+                &:hover {
+                    text-decoration: none;
+                    color: #bc516b;
+                }
+            }
+        }
+    }
+}
+.detail {
+    padding: 50px 0 50px 0;
+    .product {
+        .title-page {
+            font-size: 36px;
+            text-transform: uppercase;
+            line-height: 42px;
+            color: #bc516b;
+            margin-bottom: 15px;
+            margin-top: auto;
+            font-family: Tahoma;
+        }
+        .short-content {
+            font-size: 20px;
+            line-height: 25px;
+            text-align: justify;
+            color: #495057;
+        }
+        .s-content {
+            p {
+                margin-bottom: 10px;
+                text-align: justify;
+                color: #495057;
+                font-size: 18px;
+                line-height: 25px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifma;
+                img {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    max-width: 100%;
+                    height: auto;
+                    object-fit: contain;
+                    margin: 30px auto;
+                }
+            }
+            h2 {
+                display: block;
+                font-size: 27px;
+                color: #495057;
+                margin-top: 13px;
+                margin-bottom: 13px;
+                margin-left: 0;
+                margin-right: 0;
+                font-weight: 600;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifma;
+            }
+            ul {
+                list-style: initial;
+                margin-left: 15px;
+                margin-bottom: 10px;
+                li {
+                    margin-bottom: 5px;
+                    color: #495057;
+                    font-size: 18px;
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifma;
+                    line-height: 25px;
+                    text-align: justify;
+                }
+            }
+        }
+    }
+    .sidebar {
+        .title-page {
+            font-size: 30px;
+            line-height: 35px;
+            margin-bottom: 15px;
+            color: #bc516b;
+        }
+        .item-new {
+            color: #333;
+            padding-bottom: 12px;
+            padding-top: 12px;
+            border-bottom: solid 0.75px #ffc6bd;
+            font-size: 18px;
+            line-height: 28px;
+            display: block;
+            &:hover {
+                text-decoration: none;
+                color: #bc516b;
+            }
+        }
+    }
+    .side--video {
+        padding-top: 75px;
+        .item-video {
+            position: relative;
+            .c-img {
+                display: block;
+                position: relative;
+                padding-top: 70%;
+                img {
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    bottom: 0;
+                    left: 0;
+                    display: block;
+                    width: 100%;
+                    height: 100%;
+                    border-radius: inherit;
+                }
+            }
+            .playvideo {
+                top: 50%;
+                left: 50%;
+                position: absolute;
+                z-index: 2;
+                -webkit-transform: translate(-50%, -50%);
+                -moz-transform: translate(-50%, -50%);
+                -o-transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+            }
+            &::after {
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                z-index: 1;
+                background: rgba(0, 0, 0, 0.6);
+                z-index: -1;
+                content: "";
+            }
+        }
+    }
+}
+@media (min-width: 480px) and (max-width: 767px) {
+    .contact-news {
+        form {
+            margin: 0 7px 0 7px !important;
+            padding: 45px 40px !important;
+            width: 1160px !important;
+            top: -175px !important;
+        }
+    }
+    .detail{
+        .product{
+            .title-page{
+                font-size: 18px;
+            }
+            .s-content{
+                p{
+                    font-size: 14px;
+                }
+                ul{
+                    li{
+                        font-size: 14px;
+                    }
+                }
+                h2{
+                    font-size: 21px;
+                }
+            }
+        }
+        .sidebar{
+            .title-page{
+                font-size: 18px;
+            }
+            .item-new{
+                font-size: 14px;
+            }
+        }
+    }
+    nav {
+        .breadcrumb {
+            display: none;
+        }
+    }
+}
+/* ---------Mobile-------- */
+@media only screen and (min-width: 240px) and (max-width: 479px) {
+    .contact-news {
+        height: 380px;
+        form {
+            margin: auto;
+            padding: 35px 40px !important;
+            width: 300px !important;
+            top: -175px !important;
+            input {
+                margin-bottom: 10px;
+                padding: 9px 12px 10px 25px !important;
+            }
+            textarea {
+                min-height: 84px !important;
+            }
+        }
+        .contact-text {
+            font-size: 18px !important;
+        }
+        .btn-main {
+            height: 40px !important;
+            line-height: 40px !important;
+            min-width: 120px !important;
+            font-size: 16px !important;
+        }
+    }
+    nav {
+        .breadcrumb {
+            display: none;
+        }
+    }
+    .detail{
+        .product{
+            .title-page{
+                font-size: 18px;
+            }
+            .s-content{
+                p{
+                    font-size: 14px;
+                }
+                ul{
+                    li{
+                        font-size: 14px;
+                    }
+                }
+                h2{
+                    font-size: 21px;
+                }
+            }
+        }
+        .sidebar{
+            .title-page{
+                font-size: 18px;
+            }
+            .item-new{
+                font-size: 14px;
+            }
+        }
+    }
+}

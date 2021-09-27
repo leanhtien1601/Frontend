@@ -1,0 +1,87 @@
+@media (min-width: 1366px) {
+  .contact-news {
+    display: none; } }
+@media (min-width: 1200px) and (max-width: 1365px) {
+  .contact-news {
+    display: none; } }
+@media (min-width: 992px) and (max-width: 1199px) {
+  .contact-news {
+    display: none; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .new-details .sidebar {
+    margin-top: 40px; }
+  .new-details .item {
+    padding: 10px 0px 10px 0px; }
+    .new-details .item .title-item a {
+      font-size: 16px; }
+    .new-details .item .short-text {
+      font-size: 14px; }
+  .new-details .title-advisory {
+    display: none; }
+  .new-details form {
+    display: none; }
+  .new-details hr {
+    display: none; }
+
+  .contact-news {
+    display: block; } }
+/* --------Tablet-------- */
+@media (min-width: 480px) and (max-width: 767px) {
+  .new-details .title {
+    font-size: 18px; }
+  .new-details .sidebar {
+    margin-top: 40px; }
+    .new-details .sidebar .title {
+      font-size: 18px; }
+  .new-details .item-news .c-text h3 a {
+    font-size: 18px;
+    margin-top: 15px; }
+  .new-details .item-news .c-text .short-content {
+    font-size: 14px;
+    margin-bottom: 20px; }
+  .new-details .item-news .c-text .btn-main {
+    position: relative;
+    padding: 5px 10px;
+    margin-top: 20px;
+    font-size: 14px; }
+  .new-details .item {
+    padding: 10px 0px 10px 0px; }
+    .new-details .item .title-item a {
+      font-size: 16px; }
+    .new-details .item .short-text {
+      font-size: 14px; }
+  .new-details .title-advisory {
+    display: none; }
+  .new-details form {
+    display: none; }
+  .new-details hr {
+    display: none; }
+
+  .contact-news {
+    display: block; }
+    .contact-news form .contact-text {
+      font-size: 21px; } }
+/* ---------Mobile-------- */
+@media only screen and (min-width: 240px) and (max-width: 479px) {
+  .new-details .item-news .c-text h3 a {
+    font-size: 18px;
+    margin-top: 10px; }
+  .new-details .item-news .c-text .short-content {
+    font-size: 14px;
+    margin-bottom: 20px; }
+  .new-details .item-news .c-text .btn-main {
+    position: relative;
+    padding: 5px 10px;
+    margin-top: 20px;
+    font-size: 14px; }
+  .new-details .title-advisory {
+    display: none; }
+  .new-details form {
+    display: none; }
+  .new-details hr {
+    display: none; }
+
+  .contact-news {
+    display: block; } }
+
+/*# sourceMappingURL=tintuc.css.map */

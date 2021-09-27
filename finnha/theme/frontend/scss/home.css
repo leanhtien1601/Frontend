@@ -1,0 +1,1058 @@
+@media (min-width: 1900px) {
+  .container {
+    max-width: 1570px; }
+
+  header .nav .search .icon-mobile {
+    display: none; }
+
+  .menu-mobile {
+    display: none; } }
+@media (min-width: 1601px) and (max-width: 1899px) {
+  .container {
+    max-width: 1570px; }
+
+  header .nav .search .icon-mobile {
+    display: none; }
+
+  .menu-mobile {
+    display: none; } }
+@media (min-width: 1366px) and (max-width: 1600px) {
+  .menu-mobile {
+    display: none; }
+
+  header .nav ul {
+    padding: 10px 20px 0 120px !important; }
+    header .nav ul li a {
+      padding: 4px 5px !important;
+      font-size: 15px; }
+  header .nav .search {
+    right: 85px !important; }
+    header .nav .search .icon-mobile {
+      display: none; }
+  header .app-mobile .text {
+    margin-top: 125px !important; }
+    header .app-mobile .text .title {
+      font-size: 30px;
+      line-height: 50px;
+      display: block; }
+  header .app-mobile .app {
+    top: 370px !important;
+    left: 190px !important; }
+
+  .support-home .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+  .support-home p {
+    margin-top: 0; }
+  .support-home .item-support .item .c-img img {
+    object-fit: cover; }
+
+  .buy-house .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+
+  .why-us .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+  .why-us .slide_why .item .ct-why {
+    font-size: 15px !important; }
+  .why-us .slide_why .item .num-why {
+    width: 90px !important;
+    height: 51px !important;
+    font-size: 20px; }
+
+  .deal-home .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+
+  .new-home .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+  .new-home .box .new-box .item .info-news-home h3 .info-text {
+    font-size: 20px;
+    line-height: 25px;
+    display: block; }
+  .new-home .box2 .c-text h2 .title {
+    font-size: 20px;
+    line-height: 25px;
+    display: block; }
+
+  .customer .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+  .customer .question-home .card .card-header .btn-main {
+    font-size: 18px !important; }
+  .customer .question-home .card .s-content p {
+    font-size: 14px; }
+  .customer .padidng-mobile .new-box .box .item .c-text p {
+    font-size: 16px; } }
+@media (min-width: 1200px) and (max-width: 1365px) {
+  .menu-mobile {
+    display: none; }
+
+  header .nav ul {
+    padding: 10px 20px 0 100px !important; }
+    header .nav ul li a {
+      padding: 10px 5px !important;
+      font-size: 15px; }
+  header .nav .search {
+    right: 20px !important; }
+    header .nav .search .icon-mobile {
+      display: none; }
+  header .app-mobile .text {
+    margin-top: 125px !important; }
+    header .app-mobile .text .title {
+      font-size: 30px;
+      line-height: 50px;
+      display: block; }
+  header .app-mobile .app {
+    top: 370px !important;
+    left: 190px !important; }
+
+  .support-home .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+  .support-home p {
+    margin-top: 0; }
+  .support-home .item-support .item .c-img img {
+    object-fit: cover; }
+
+  .buy-house .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+
+  .why-us .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+  .why-us .slide_why .item .ct-why {
+    font-size: 15px !important; }
+  .why-us .slide_why .item .num-why {
+    width: 66px !important;
+    height: 42px !important;
+    font-size: 20px !important; }
+
+  .deal-home .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+
+  .new-home .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+  .new-home .box .new-box .item .info-news-home h3 .info-text {
+    font-size: 20px;
+    line-height: 25px;
+    display: block; }
+  .new-home .box2 .c-text h2 .title {
+    font-size: 20px;
+    line-height: 25px;
+    display: block; }
+
+  .customer .title {
+    font-size: 30px;
+    line-height: 50px;
+    display: block; }
+  .customer .question-home .card .card-header .btn-main {
+    font-size: 18px !important; }
+  .customer .question-home .card .s-content p {
+    font-size: 14px; }
+  .customer .padidng-mobile .new-box .box .item .c-text p {
+    font-size: 16px; } }
+@media (min-width: 992px) and (max-width: 1199px) {
+  .menu-mobile {
+    display: none; }
+
+  header .nav ul {
+    padding: 10px 20px 0 25px !important; }
+    header .nav ul li a {
+      padding: 10px 2px !important;
+      font-size: 14px; }
+  header .nav .search {
+    right: 25px !important; }
+    header .nav .search .icon-mobile {
+      display: none; }
+  header .app-mobile .logo {
+    left: 90px !important; }
+  header .app-mobile .text {
+    margin-top: 90px !important;
+    left: 90px !important; }
+    header .app-mobile .text .title {
+      font-size: 25px;
+      line-height: 40px;
+      display: block; }
+  header .app-mobile .app {
+    top: 340px !important;
+    left: 100px !important; }
+    header .app-mobile .app a img {
+      width: 90px;
+      max-height: 70px;
+      object-fit: cover; }
+
+  .support-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .support-home p {
+    margin-top: 10px !important;
+    font-size: 17px; }
+  .support-home .item-support .item .c-img img {
+    object-fit: cover; }
+  .support-home .item-support .item .c-text .content {
+    padding-top: 0px !important; }
+
+  .buy-house .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+
+  .why-us .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .why-us .slide_why .item .ct-why {
+    font-size: 15px !important; }
+  .why-us .slide_why .item .num-why {
+    width: 66px !important;
+    height: 35px !important;
+    font-size: 20px !important; }
+
+  .deal-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+
+  .new-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .new-home .box .new-box .item .info-news-home h3 .info-text {
+    font-size: 20px;
+    line-height: 25px;
+    display: block; }
+  .new-home .box2 .c-text {
+    padding: 5px !important; }
+    .new-home .box2 .c-text h2 .title {
+      font-size: 17px;
+      font-family: b_roboto;
+      margin-top: 10px;
+      line-height: 25px; }
+    .new-home .box2 .c-text .s-content {
+      font-size: 14px; }
+
+  .customer .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .customer .question-home .card .card-header .btn-main {
+    font-size: 18px !important; }
+  .customer .question-home .card .s-content p {
+    font-size: 14px; }
+  .customer .padidng-mobile .new-box .box .item .c-text p {
+    font-size: 16px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  header {
+    height: 385px; }
+    header .nav ul {
+      display: none; }
+    header .nav .search {
+      right: 25px !important; }
+    header .nav .c-img {
+      width: 100%; }
+    header .app-mobile .logo {
+      position: unset !important; }
+    header .app-mobile .text {
+      margin-top: 5px !important;
+      left: 90px !important;
+      position: unset !important;
+      margin-bottom: -5px !important; }
+      header .app-mobile .text .title {
+        font-size: 25px;
+        line-height: 40px;
+        display: block;
+        margin-bottom: 0 !important; }
+      header .app-mobile .text .s-content {
+        margin-top: 10px; }
+        header .app-mobile .text .s-content .content {
+          font-size: 15px;
+          padding: 0 20px 0 0px !important; }
+    header .app-mobile .app {
+      position: unset !important;
+      margin-left: 10px;
+      top: 270px !important;
+      left: 100px !important; }
+      header .app-mobile .app a img {
+        width: 90px;
+        max-height: 70px;
+        object-fit: cover; }
+
+  .support-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .support-home p {
+    margin-top: 0 !important;
+    font-size: 17px; }
+  .support-home .item-support .item .identified-support {
+    display: none; }
+
+  .customer .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .customer .question-home .card .card-header .btn-main {
+    font-size: 18px !important; }
+  .customer .question-home .card .s-content p {
+    font-size: 14px; }
+  .customer .padidng-mobile .new-box .box .item .c-text p {
+    font-size: 16px; }
+
+  .buy-house .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+
+  .why-us .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .why-us .slide_why .item .ct-why {
+    font-size: 15px !important; }
+  .why-us .slide_why .item .num-why {
+    width: 60px !important;
+    height: 50px !important;
+    font-size: 20px !important; }
+
+  .deal-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+
+  .new-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .new-home .box .new-box .item .info-news-home h3 .info-text {
+    font-size: 20px;
+    line-height: 25px;
+    display: block; }
+  .new-home .box2 {
+    height: 200px !important; }
+    .new-home .box2 .c-text {
+      padding: 5px !important; }
+      .new-home .box2 .c-text h2 .title {
+        font-size: 17px;
+        font-family: b_roboto;
+        margin-top: 10px;
+        line-height: 25px; }
+      .new-home .box2 .c-text .s-content {
+        font-size: 14px; }
+  .new-home .box2:first-child {
+    margin-top: 20px; } }
+/* --------Tablet-------- */
+@media (min-width: 480px) and (max-width: 767px) {
+  header {
+    height: 490px;
+    background: #e5f0e8;
+    padding: 0 0 10px 0; }
+    header .nav {
+      position: relative; }
+      header .nav ul {
+        display: none; }
+      header .nav .search {
+        right: 25px !important; }
+      header .nav .c-img {
+        max-width: 336px;
+        max-height: 290px;
+        position: absolute;
+        right: 0; }
+        header .nav .c-img .home {
+          max-width: 336px;
+          max-height: 290px;
+          right: 0; }
+    header .app-mobile .logo {
+      left: 16px !important; }
+    header .app-mobile .text {
+      margin-top: 260px !important;
+      left: 90px !important;
+      position: unset !important;
+      margin-bottom: -5px !important; }
+      header .app-mobile .text .title {
+        font-size: 25px;
+        line-height: 40px;
+        display: block;
+        margin-bottom: 0 !important; }
+      header .app-mobile .text .s-content {
+        margin-top: 10px; }
+        header .app-mobile .text .s-content .content {
+          font-size: 15px;
+          padding: 0 20px 0 0px !important; }
+    header .app-mobile .app {
+      position: unset !important;
+      top: 270px !important;
+      left: 100px !important; }
+      header .app-mobile .app a img {
+        width: 90px;
+        max-height: 70px;
+        object-fit: cover; }
+
+  .support-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .support-home p {
+    margin-top: 0 !important;
+    font-size: 17px; }
+  .support-home .item-support .item .identified-support {
+    display: none; }
+
+  .customer .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .customer .question-home .card .card-header .btn-main {
+    font-size: 18px !important; }
+  .customer .question-home .card .s-content p {
+    font-size: 14px; }
+  .customer .padidng-mobile .new-box .box .item .c-text p {
+    font-size: 16px; }
+
+  .buy-house .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+
+  .why-us .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .why-us .slide_why .item .ct-why {
+    font-size: 15px !important; }
+  .why-us .slide_why .item .num-why {
+    width: 60px !important;
+    height: 50px !important;
+    font-size: 20px !important; }
+
+  .deal-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+
+  .new-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .new-home .box .new-box .item .info-news-home h3 .info-text {
+    font-size: 20px;
+    line-height: 25px;
+    display: block; }
+  .new-home .box2 {
+    height: 200px !important; }
+    .new-home .box2 .c-text {
+      padding: 5px !important; }
+      .new-home .box2 .c-text h2 .title {
+        font-size: 17px;
+        font-family: b_roboto;
+        margin-top: 10px;
+        line-height: 25px; }
+      .new-home .box2 .c-text .s-content {
+        font-size: 14px;
+        margin-bottom: 0; }
+  .new-home .box2:first-child {
+    margin-top: 20px; } }
+/* ---------Mobile-------- */
+@media only screen and (min-width: 240px) and (max-width: 479px) {
+  header {
+    height: 576px;
+    background: #e5f0e8;
+    padding: 0 0 10px 0; }
+    header .nav {
+      position: relative; }
+      header .nav ul {
+        display: none; }
+      header .nav .search {
+        right: 25px !important; }
+      header .nav .c-img {
+        max-width: 270px;
+        max-height: 290px;
+        position: absolute;
+        right: 0; }
+        header .nav .c-img .home {
+          max-width: 270px;
+          max-height: 290px;
+          right: 0; }
+    header .app-mobile .logo {
+      left: 16px !important; }
+      header .app-mobile .logo .logo-img img {
+        margin-top: 20px;
+        max-width: 100px !important;
+        margin-left: -10px; }
+    header .app-mobile .text {
+      margin-top: 260px !important;
+      left: 90px !important;
+      position: unset !important;
+      margin-bottom: -5px !important; }
+      header .app-mobile .text .title {
+        font-size: 25px;
+        line-height: 40px;
+        display: block;
+        margin-bottom: 0 !important;
+        margin-top: 0; }
+      header .app-mobile .text .s-content {
+        margin-top: 10px; }
+        header .app-mobile .text .s-content .content {
+          font-size: 15px;
+          padding: 0 20px 0 0px !important; }
+    header .app-mobile .app {
+      position: unset !important;
+      top: 270px !important;
+      left: 100px !important; }
+      header .app-mobile .app a img {
+        width: 90px;
+        max-height: 70px;
+        object-fit: cover; }
+
+  .support-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .support-home p {
+    margin-top: 0 !important;
+    font-size: 17px; }
+  .support-home .item-support .item .identified-support {
+    display: none; }
+
+  .customer .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .customer .question-home .card .card-header .btn-main {
+    font-size: 18px !important; }
+  .customer .question-home .card .s-content p {
+    font-size: 14px; }
+  .customer .padidng-mobile {
+    background: linear-gradient(180deg, rgba(7, 114, 62, 0.1) 0%, rgba(7, 114, 62, 0) 100%); }
+    .customer .padidng-mobile .new-box .slick-prev {
+      margin-top: 200px !important;
+      z-index: 2; }
+    .customer .padidng-mobile .new-box .slick-list:focus {
+      outline: none !important; }
+    .customer .padidng-mobile .new-box .slick-next {
+      margin-top: 200px !important; }
+    .customer .padidng-mobile .new-box .box .item .c-text p {
+      font-size: 16px; }
+
+  .buy-house .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+
+  .why-us .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .why-us .slide_why .slick-prev {
+    margin-left: 0 !important;
+    display: none !important; }
+  .why-us .slide_why .slick-next {
+    margin-right: 0 !important;
+    display: none !important; }
+  .why-us .slide_why .item .ct-why {
+    font-size: 15px !important; }
+  .why-us .slide_why .item .num-why {
+    width: 60px !important;
+    height: 50px !important;
+    font-size: 20px !important; }
+
+  .deal-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .deal-home .wrap-slide-bot .slick-next {
+    display: none !important;
+    right: 0 !important; }
+
+  .new-home .title {
+    font-size: 25px;
+    line-height: 40px;
+    display: block; }
+  .new-home .box .new-box .slick-next {
+    display: none !important; }
+  .new-home .box .new-box .item .info-news-home h3 .info-text {
+    font-size: 20px;
+    line-height: 25px;
+    display: block; }
+  .new-home .box .new-box .item .info-news-home .time .time-author:first-child {
+    margin-right: 30px !important; }
+  .new-home .box2 {
+    height: 200px !important; }
+    .new-home .box2 .c-text {
+      padding: 5px !important; }
+      .new-home .box2 .c-text h2 .title {
+        font-size: 15px;
+        font-family: b_roboto;
+        margin-top: 20px;
+        line-height: 20px; }
+      .new-home .box2 .c-text .time-out {
+        display: none !important; }
+      .new-home .box2 .c-text .s-content {
+        font-size: 14px;
+        margin-bottom: 0; }
+  .new-home .box2:first-child {
+    margin-top: 20px; } }
+header {
+  position: relative; }
+  header .app-mobile .logo {
+    left: 175px;
+    position: absolute;
+    top: 5px;
+    z-index: 2; }
+    header .app-mobile .logo .logo-img img {
+      max-width: 169px;
+      max-height: 79px; }
+  header .app-mobile .text {
+    left: 175px;
+    margin-top: 183px;
+    margin-bottom: 60px;
+    position: absolute;
+    padding: 10px; }
+    header .app-mobile .text .title {
+      font-weight: 700;
+      color: #25262f;
+      margin-bottom: 27px; }
+    header .app-mobile .text .s-content .content {
+      font-weight: 400;
+      padding: 0 20px 0 5px; }
+  header .app-mobile .app {
+    position: absolute;
+    top: 510px;
+    left: 175px; }
+    header .app-mobile .app .app-ios {
+      max-width: 119px;
+      max-height: 40px;
+      margin-right: 11px; }
+      header .app-mobile .app .app-ios img {
+        max-width: 119px;
+        max-height: 40px;
+        margin-right: 11px; }
+    header .app-mobile .app .app-androi {
+      max-width: 135px;
+      max-height: 40px; }
+      header .app-mobile .app .app-androi img {
+        max-width: 135px;
+        max-height: 40px; }
+  header .nav {
+    max-height: 797px; }
+    header .nav ul {
+      position: absolute;
+      padding: 10px 20px 0 155px; }
+      header .nav ul li {
+        display: inline-block; }
+        header .nav ul li a {
+          color: #ffffff;
+          line-height: 21px;
+          padding: 10px 10px;
+          display: block; }
+          header .nav ul li a::after {
+            display: block;
+            content: "";
+            width: 0%;
+            left: 100px;
+            right: 100px;
+            border-bottom: 1px solid #ffffff;
+            transition: 0.3s;
+            height: 2px;
+            margin: auto; }
+          header .nav ul li a:hover::after {
+            width: 100%;
+            transform: 0.3s; }
+          header .nav ul li a:hover {
+            text-decoration: none; }
+    header .nav .c-img {
+      width: 100%;
+      max-height: 580px; }
+      header .nav .c-img .home {
+        width: 100%;
+        max-height: 580px; }
+      header .nav .c-img .home-mobile {
+        display: none; }
+    header .nav .search {
+      position: absolute;
+      top: 10px;
+      right: 145px;
+      z-index: 1; }
+      header .nav .search i {
+        color: white; }
+
+.support-home {
+  padding: 60px 0; }
+  .support-home .title {
+    font-weight: 700;
+    margin-bottom: 11px; }
+  .support-home .support-text {
+    font-weight: 400;
+    margin-bottom: 40px; }
+  .support-home .item-support .item {
+    position: relative; }
+    .support-home .item-support .item .c-img img {
+      width: 90%;
+      height: 160px; }
+    .support-home .item-support .item .c-text {
+      padding: 10px;
+      margin-top: 34px; }
+      .support-home .item-support .item .c-text .text-support {
+        font-weight: 700;
+        margin-bottom: 0; }
+      .support-home .item-support .item .c-text .content {
+        padding-top: 15px; }
+    .support-home .item-support .item .identified-support {
+      position: absolute;
+      top: 0;
+      right: 0; }
+  .support-home p {
+    margin-top: 30px; }
+    .support-home p .btn-send {
+      padding: 10px 11px;
+      border: 1px solid #ff8d54;
+      background-color: #ff8d54;
+      margin-right: 30px; }
+      .support-home p .btn-send:hover {
+        color: #ff8d54;
+        border: 1px solid #ff8d54;
+        background: white;
+        transition: 0.3s; }
+    .support-home p .btn-seeMore {
+      padding: 10px 11px;
+      border: 1px solid #07723e;
+      background-color: #07723e; }
+      .support-home p .btn-seeMore:hover {
+        color: #07723e;
+        border: 1px solid #07723e;
+        background: white;
+        transition: 0.3s; }
+
+.buy-house {
+  padding: 40px 0 50px;
+  background-color: #e5f0e8; }
+  .buy-house .title {
+    font-weight: 700;
+    margin-bottom: 20px; }
+  .buy-house .wrap-slide .slick-slide {
+    margin-right: 7px;
+    margin-left: 7px; }
+  .buy-house .wrap-slide .slick-slide:last-child {
+    margin-right: 0; }
+  .buy-house .wrap-slide .slick-next {
+    display: none !important;
+    right: 0 !important; }
+  .buy-house .wrap-slide .slick-prev {
+    display: none !important;
+    right: 0 !important; }
+  .buy-house .item {
+    position: relative;
+    background: white;
+    box-shadow: 0px 30px 26px rgba(0, 0, 0, 0.15);
+    border-radius: 0px;
+    padding: 40px 30px 30px; }
+    .buy-house .item:focus {
+      outline: none; }
+    .buy-house .item .c-img img {
+      max-width: 145px;
+      height: 94px; }
+    .buy-house .item .number {
+      position: absolute;
+      top: 26px;
+      right: 17px;
+      font-size: 70px;
+      line-height: 82px;
+      color: #000;
+      opacity: 0.1; }
+    .buy-house .item .c-text .text-support {
+      font-weight: 700; }
+  .buy-house p {
+    margin-top: 30px; }
+    .buy-house p .btn-send {
+      padding: 10px 11px;
+      border: 1px solid #ff8d54;
+      background-color: #ff8d54;
+      margin-right: 30px; }
+      .buy-house p .btn-send:hover {
+        color: #ff8d54;
+        border: 1px solid #ff8d54;
+        background: white;
+        transition: 0.3s; }
+    .buy-house p .btn-seeMore {
+      padding: 10px 11px;
+      border: 1px solid #07723e;
+      background-color: #07723e; }
+      .buy-house p .btn-seeMore:hover {
+        color: #07723e;
+        border: 1px solid #07723e;
+        background: white;
+        transition: 0.3s; }
+
+.deal-home {
+  padding-top: 48px; }
+  .deal-home .title {
+    font-weight: 700;
+    margin-bottom: 20px; }
+  .deal-home .wrap-slide-bot .item {
+    position: relative; }
+    .deal-home .wrap-slide-bot .item .c-img {
+      width: 100%;
+      object-fit: cover;
+      display: block;
+      overflow: hidden; }
+      .deal-home .wrap-slide-bot .item .c-img img {
+        width: 100%;
+        object-fit: cover;
+        transition: 0.3s; }
+        .deal-home .wrap-slide-bot .item .c-img img:hover {
+          transform: scale(1.05);
+          transition: all ease-in-out 0.3s; }
+    .deal-home .wrap-slide-bot .item .infor-deal {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      height: auto;
+      padding: 20px 30px;
+      background-color: rgba(0, 0, 0, 0.4);
+      z-index: 1; }
+      .deal-home .wrap-slide-bot .item .infor-deal .address {
+        position: relative; }
+        .deal-home .wrap-slide-bot .item .infor-deal .address a {
+          color: white;
+          font-size: 20px;
+          transition: 0.3s; }
+          .deal-home .wrap-slide-bot .item .infor-deal .address a:hover {
+            transition: 0.3s;
+            color: #00fd00;
+            text-decoration: none; }
+
+.why-us {
+  padding: 40px 0; }
+  .why-us .slide_why .item:focus {
+    outline: none; }
+  .why-us .slide_why .item .num-why {
+    width: 90px;
+    height: 60px;
+    font-size: 40px;
+    line-height: 24px;
+    color: #07723e;
+    border: 3px solid #07723e;
+    box-sizing: border-box;
+    border-radius: 50%;
+    background-color: transparent; }
+  .why-us .slide_why .item .ct-why {
+    padding: 5px 15px 5px 10px;
+    font-size: 20px; }
+  .why-us .slide_why .item:hover {
+    color: green; }
+
+.new-home {
+  padding: 70px 0 45px;
+  background-color: #e5f0e8;
+  position: relative; }
+  .new-home .title {
+    font-weight: 700; }
+  .new-home .text-new {
+    font-weight: 400;
+    border-bottom: 1px solid #07723e; }
+    .new-home .text-new:hover {
+      text-decoration: none;
+      transition: 0.3s; }
+  .new-home .box {
+    position: relative;
+    height: 500px; }
+    .new-home .box .new-box {
+      width: 100%;
+      height: 100%;
+      position: relative; }
+      .new-home .box .new-box .slick-list {
+        height: 100%; }
+      .new-home .box .new-box .slick-prev {
+        display: none !important; }
+      .new-home .box .new-box .slick-next {
+        position: absolute;
+        right: 6px;
+        top: 450px;
+        width: 40px;
+        height: 40px;
+        border: 2px solid #fff;
+        border-radius: 100%;
+        background-color: transparent; }
+        .new-home .box .new-box .slick-next:focus {
+          outline: none; }
+      .new-home .box .new-box .item {
+        position: relative; }
+        .new-home .box .new-box .item .c-img {
+          width: 100%;
+          height: 100%;
+          overflow: hidden; }
+          .new-home .box .new-box .item .c-img img {
+            width: 100%;
+            height: 500px;
+            object-fit: cover; }
+        .new-home .box .new-box .item .info-news-home {
+          position: absolute;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          width: 100%;
+          min-height: 20%;
+          padding: 25px 30px;
+          z-index: 2; }
+          .new-home .box .new-box .item .info-news-home:focus {
+            outline: none !important; }
+          .new-home .box .new-box .item .info-news-home h3 .info-text {
+            position: relative;
+            z-index: 3;
+            transition: 0.3s;
+            font-weight: 600; }
+            .new-home .box .new-box .item .info-news-home h3 .info-text:hover {
+              text-decoration: none;
+              color: orangered;
+              transition: 0.3s; }
+            .new-home .box .new-box .item .info-news-home h3 .info-text:focus {
+              outline: none !important; }
+          .new-home .box .new-box .item .info-news-home .time .time-author {
+            position: relative;
+            z-index: 2; }
+          .new-home .box .new-box .item .info-news-home::after {
+            content: "";
+            bottom: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+            background: linear-gradient(350.48deg, #000000 6.63%, rgba(0, 0, 0, 0) 92.3%);
+            position: absolute;
+            left: 0;
+            right: 0; }
+  .new-home .box2 {
+    height: 237px;
+    background: white; }
+    .new-home .box2 .c-img {
+      width: 100%;
+      height: 100%; }
+      .new-home .box2 .c-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; }
+    .new-home .box2 .c-text {
+      padding: 22px 10px 19px 10px; }
+      .new-home .box2 .c-text h2 .title {
+        font-weight: 600;
+        transition: 0.3s; }
+        .new-home .box2 .c-text h2 .title:hover {
+          text-decoration: none;
+          color: green;
+          transition: 0.3s; }
+
+.customer {
+  padding: 40px 0 40px 0;
+  position: relative; }
+  .customer .title {
+    font-weight: 700; }
+  .customer .question-home .card {
+    border: none;
+    background: #ffffff; }
+    .customer .question-home .card .card-header {
+      background: #ffffff;
+      padding: 0;
+      position: relative; }
+      .customer .question-home .card .card-header:focus {
+        outline: none; }
+      .customer .question-home .card .card-header .btn-main {
+        background: #ffffff;
+        border: none;
+        width: 100%;
+        position: relative;
+        font-size: 22px;
+        padding: 7px 0 7px 0px; }
+        .customer .question-home .card .card-header .btn-main:focus {
+          outline: none; }
+        .customer .question-home .card .card-header .btn-main .plus {
+          position: absolute;
+          top: 12px;
+          right: 0;
+          display: block; }
+        .customer .question-home .card .card-header .btn-main .fa-plus.minus:before {
+          content: "\f068"; }
+    .customer .question-home .card .s-content {
+      display: none;
+      padding-top: 10px; }
+      .customer .question-home .card .s-content p {
+        font-family: Roboto;
+        font-size: 18px;
+        text-align: justify; }
+  .customer .padidng-mobile:focus {
+    outline: none; }
+  .customer .padidng-mobile .slick-list:focus {
+    outline: none; }
+  .customer .padidng-mobile .slick-list .slick-track:focus {
+    outline: none; }
+  .customer .padidng-mobile .slick-list .slick-track .slick-slide:focus {
+    outline: none; }
+  .customer .padidng-mobile .new-box:focus {
+    outline: none; }
+  .customer .padidng-mobile .new-box .slick-prev {
+    margin-top: 170px;
+    margin-left: 50px;
+    z-index: 2; }
+    .customer .padidng-mobile .new-box .slick-prev::before {
+      color: #000;
+      left: 0;
+      bottom: 0;
+      position: absolute; }
+  .customer .padidng-mobile .new-box .slick-next {
+    margin-top: 170px;
+    left: 75px; }
+    .customer .padidng-mobile .new-box .slick-next::before {
+      color: #000;
+      left: 0;
+      bottom: 0;
+      position: absolute;
+      top: 0; }
+  .customer .padidng-mobile .new-box .box:focus {
+    outline: none; }
+  .customer .padidng-mobile .new-box .box .item .c-text p {
+    padding: 40px 0 0;
+    line-height: 27.72px; }
+    .customer .padidng-mobile .new-box .box .item .c-text p::before {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      width: 40px;
+      height: 40px;
+      margin-top: 5px;
+      background-image: url(../images/nhay.png);
+      background-repeat: no-repeat;
+      background-position: top left; }
+  .customer .padidng-mobile .new-box .box .item .infor-cus {
+    position: relative; }
+    .customer .padidng-mobile .new-box .box .item .infor-cus:focus {
+      outline: none; }
+    .customer .padidng-mobile .new-box .box .item .infor-cus .img-cus img {
+      width: 105px;
+      height: 105px;
+      margin: 10px; }
+    .customer .padidng-mobile .new-box .box .item .infor-cus .text-cus {
+      padding: 10px;
+      width: calc(100% - 105px); }
+
+.show-plus {
+  display: none; }
+
+/*# sourceMappingURL=home.css.map */
